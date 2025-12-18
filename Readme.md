@@ -74,34 +74,35 @@ Top-10 SHL Assessment Recommendations
 
 shl-reco-engine/
 │
-├── app.py # Streamlit frontend (UI + API)
+├── app.py                      # Streamlit frontend (UI + API)
 ├── requirements.txt
 ├── README.md
 │
 ├── data/
-│ └── shl_catalog_raw.json
+│   └── shl_catalog_raw.json    # SHL catalogue snapshot (377 assessments)
 │
 ├── embeddings/
-│ ├── embedding_utils.py # SentenceTransformers embeddings
-│ ├── build_faiss_index.py
-│ ├── faiss_index/
-│ │ ├── index.faiss
-│ │ └── metadata.json
-│ ├── gemini_embedding_utils.py # Deprecated / experimental
-│ └── build_faiss_index_gemini.py # Deprecated / experimental
+│   ├── embedding_utils.py      # SentenceTransformers embeddings
+│   ├── build_faiss_index.py    # FAISS index builder
+│   ├── faiss_index/
+│   │   ├── index.faiss         # Vector index
+│   │   └── metadata.json       # Assessment metadata
+│   ├── gemini_embedding_utils.py       # Deprecated / experimental
+│   └── build_faiss_index_gemini.py     # Deprecated / experimental
 │
 ├── retrieval/
-│ ├── retrieve_and_rank.py
-│ └── rank_utils.py
+│   ├── retrieve_and_rank.py    # Retrieval + ranking logic
+│   └── rank_utils.py           # Balanced re-ranking utilities
 │
 ├── llm/
-│ └── query_rewriter.py # Optional Gemini query rewriting
+│   └── query_rewriter.py       # Optional Gemini query rewriting
 │
 ├── evaluation/
-│ └── evaluate_recall.py
+│   └── evaluate_recall.py      # Recall@10 evaluation
 │
 └── submission/
-└── shl_test_predictions.csv
+    └── shl_test_predictions.csv
+
 
 
 ---
