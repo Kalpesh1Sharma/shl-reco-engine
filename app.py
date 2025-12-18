@@ -1,7 +1,10 @@
 import streamlit as st
 import json
-from retrieval.retrieve_and_rank import retrieve_and_rank
+from retrieval.retrieve_and_rank import recommend
 
+# -------------------------------
+# Page configuration
+# -------------------------------
 st.set_page_config(
     page_title="SHL Assessment Recommendation Engine",
     layout="centered"
@@ -15,13 +18,14 @@ st.write(
 
 # -------------------------------
 # 🔌 API MODE (JSON RESPONSE)
+# Triggered when ?query= is present in URL
 # -------------------------------
 query_param = st.query_params.get("query")
 
 if query_param:
     query_text = query_param
 
-    results = retrieve_and_rank(query_text, top_k=10)
+    results = recommend(query_text, k=10)
 
     response = {
         "query": query_text,
@@ -54,7 +58,7 @@ if st.button("🔍 Recommend Assessments"):
         st.warning("Please enter a job description or hiring query.")
     else:
         with st.spinner("Finding best matching SHL assessments..."):
-            recommendations = retrieve_and_rank(user_query, top_k=10)
+            recommendations = recommend(user_query, k=10)
 
         st.success("Top Recommended Assessments")
 
