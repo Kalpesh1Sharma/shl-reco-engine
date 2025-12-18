@@ -1,0 +1,3395 @@
+[
+  {
+    "assessment_id": "365b17ad-9093-4091-a7a7-aac06616d76c",
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "133abd99-7ec0-4864-9f5e-b4e00c20d0d0",
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "9a030e1b-49f7-457e-b064-a39c9012ecb1",
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d901483e-4213-4755-bd90-5b61e501d29a",
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "a6f579a1-a8c8-4274-b4b4-78cae8f368a3",
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ae657126-5cdc-4905-bcdc-11d8a5d5f5e6",
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "3501526d-7420-4aa6-b0bc-417c8703076c",
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "76880ad3-f72d-472e-ba59-24649d8f3bbd",
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "9f0465df-de1a-4c84-88c9-5c1407770dea",
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "25f95134-6fc9-4de3-aef0-609e1c7e20e3",
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d96a566f-4811-41c1-bbef-dce013981bbc",
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "7cf9c777-1caa-4268-aae0-62f76c20e8c0",
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "42a0befa-ff91-422d-9581-c48e1de1adf5",
+    "name": "Adobe Experience Manager (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "55ab4fe2-55f1-48cd-9fad-8e9bcff7d932",
+    "name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d0daccae-804e-436d-ad05-7052dfbce430",
+    "name": "Aeronautical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "98b1f488-6406-4b6f-87e5-957586e9b2a2",
+    "name": "Aerospace Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "caeb4e2c-62c7-4aac-8b50-81060512b3df",
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "800096b5-b1b1-4830-9388-f1edacc58f88",
+    "name": "Agile Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "647bf90e-ea4a-4294-9d9c-14e678a51225",
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "a0f60862-5bd7-456f-aec1-06b716befbef",
+    "name": "Android Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "6f62b214-dc8a-4556-9b8a-2b0c169757df",
+    "name": "Angular 6 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "6a8de396-9a60-4036-ada8-21ccdaeec189",
+    "name": "AngularJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "4d17d64b-4b3c-4eca-bc14-57e5d7a222a1",
+    "name": "Apache Hadoop (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "3507eff9-7740-4585-8f6d-cbea99cf8f7e",
+    "name": "AI Skills",
+    "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "2a45273d-3560-4201-9ddc-55656b599bd6",
+    "name": "Apache Hadoop Extensions (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "87530540-85fe-44c5-b633-365062c0bcdf",
+    "name": "Apache HBase (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "6bac2067-47ea-4a45-bf9b-831eec6cef60",
+    "name": "Apache Hive (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "c171b2cd-3434-4038-b680-c4d3a12fd305",
+    "name": "Apache Kafka (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "33313c95-a1c6-48fb-b068-6a8256c5a8f8",
+    "name": "Apache Pig (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "1738ee69-728c-4372-bbeb-705ff85db187",
+    "name": "Apache Spark (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "7f3fe5ff-0291-41da-99c6-fad12b1aea89",
+    "name": "ASP .NET with C# (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "c66560f5-a9bb-486e-bc43-67ad32a91136",
+    "name": "ASP.NET 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "2147768f-e122-4f0d-819c-20395d6b5cb6",
+    "name": "Assessment and Development Center Exercises",
+    "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "5e84271c-3fe6-49d9-8fe9-09e61f34e0b9",
+    "name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "346e26b2-0619-4f49-812a-6884f29abe9b",
+    "name": "Automata - SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "2bc0f572-93dc-434e-9d42-6d198e8e43e9",
+    "name": "Automata (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "a976226f-cddb-4088-8425-d754fcc3681f",
+    "name": "Automata Data Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "1c0adfc3-a9b3-4f8b-a394-7c82ebba9157",
+    "name": "Automata Data Science Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ec07d341-09da-4add-955a-077f2b3a1bb0",
+    "name": "Automata Front End",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "f835b9cb-e1db-4ac6-93ad-40c61b194e84",
+    "name": "Automata Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "4fc832f5-86a1-4bda-aca5-6bcd555b660c",
+    "name": "Automata Selenium",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "3031ffd1-bf39-49ba-9fe8-7ada18a6224f",
+    "name": "Automation Anywhere RPA Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "b59987d6-5725-4636-8723-cf3b5405db6f",
+    "name": "Automotive Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "a9d7a4a2-c439-456a-bada-fc03fb305ade",
+    "name": "Basic Biology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "b757c8a7-83cf-4b0c-90fe-ba09fe5fa2e2",
+    "name": "Basic Computer Literacy (Windows 10) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ad0903da-4778-492c-9c1d-4642956e475c",
+    "name": "Basic Statistics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "04d6334c-d85a-4c78-8e7a-3a7a50f7fde3",
+    "name": "Biochemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "2e38e9e6-5ef6-44dd-85ff-f91a51fcd155",
+    "name": "Biotech Lab Techniques (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "5074aa20-1494-4a20-af54-fcb3ec8975d1",
+    "name": "BizTalk (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "cdfdf0c5-8d98-4480-b961-50d05cfb8809",
+    "name": "Business Communication (adaptive)",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "c3928913-3605-4a85-aa43-ee9dff775adb",
+    "name": "Business Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communications/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "4de8e51c-a463-45a6-804f-6b293a2399c4",
+    "name": "C Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "4f8bba04-dcb7-4aea-9f63-210c8afb53ac",
+    "name": "C# Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "6c3c92be-afca-42c5-a30b-57591e403057",
+    "name": "C++ Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "43c65f32-4fdc-48b8-ae45-3a3b1f3476de",
+    "name": "Cardiology and Diabetes Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "8248eb18-3dd7-4b3a-bb91-eef1b0df239c",
+    "name": "Ceramic Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "901e44ca-1358-4d59-ae2e-b33b95a974c7",
+    "name": "Chemical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "c4b50130-9407-432c-b299-1dbf8b221cf8",
+    "name": "Cisco AppDynamics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "9ccc411d-3b46-4d83-a975-7a784ad4e667",
+    "name": "Civil Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "8973c922-cdce-4fea-a909-415a0a26657a",
+    "name": "Cloud Computing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "5705bc95-7513-40ca-b05b-80df1aaa6108",
+    "name": "COBOL Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "0e04be0a-04f6-4510-9e88-8ae7d3904c6a",
+    "name": "Computer Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "24400e50-be2c-4196-bb71-ce0e475d12bf",
+    "name": "Contact Center Call Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "c7827392-3400-4e51-995c-920e30c3fa1a",
+    "name": "Conversational Multichat Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d073737b-243e-4472-9d1f-704f402a0acb",
+    "name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "fe169dfd-6752-49f8-b4c8-c518a7da3c0c",
+    "name": "Core Java (Entry Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "76ec4e09-cdef-4168-ad70-7f2cf5a5184a",
+    "name": "Count Out The Money",
+    "url": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "0ea58213-96da-41fa-ab0d-ffb944ce3d43",
+    "name": "CSS3 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/css3-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "666cd4e4-79e1-4c8e-bfe1-42e10349a8c1",
+    "name": "Culinary Skills (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "592b1f34-56f3-47d5-846d-582d2b7a4edf",
+    "name": "Customer Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "a6db3b15-39da-4146-9d6b-b0c0edfc6a24",
+    "name": "Customer Service Phone Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "95dd4fee-8c91-4394-a481-34dc2cfac1bf",
+    "name": "Cyber Risk (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "78abbe6f-1dad-4451-8b79-b7fe289b354e",
+    "name": "Data Entry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "8ab71646-4921-4ee9-b9b8-82df9f6c66b3",
+    "name": "Data Entry Alphanumeric Split Screen - US",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "a24d17d0-057a-49ab-bf0c-62ec33772923",
+    "name": "Data Entry Numeric Split Screen - US",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "c5a04c65-98d1-455e-a3ee-104bfb774936",
+    "name": "Data Entry Ten Key Split Screen",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "1690860f-57dc-4a0d-b8ad-2c483b48d59b",
+    "name": "Data Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/data-science-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "8756183c-497d-4336-844e-e476c6de251c",
+    "name": "Data Warehousing Concepts",
+    "url": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "8d9e0956-5f50-4c69-9a07-9643723a3bc0",
+    "name": "Dependability and Safety Instrument (DSI)",
+    "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d172f76b-62c9-4c38-9440-39b547872f56",
+    "name": "Dermatology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/dermatology-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e2e85fe1-b256-46f0-96ca-6a28014e29cc",
+    "name": "Desktop Support (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/desktop-support-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "6f0c363d-b0a6-4a47-92e8-b2a26b0c92d5",
+    "name": "Digital Advertising (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-advertising-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "56fa7a8b-93f9-47f5-989e-3d90a6ed94a8",
+    "name": "Digital Readiness Development Report - IC",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "6fb29d94-ccf2-415a-ac52-586aa8ef3bc0",
+    "name": "Digital Readiness Development Report - Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "83ff0787-4cff-4af7-8270-8f05720a283d",
+    "name": "Docker (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "625f58f3-30e8-4ad0-9d38-67e0da7255f7",
+    "name": "Dojo (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/dojo-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "7bd11d94-a616-4b2c-9037-96c77f3a9078",
+    "name": "Drupal (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/drupal-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "64ecff5e-90cb-478b-8fcd-c8faad62acca",
+    "name": "DSI v1.1 Interpretation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "32fc22ef-14d0-4c15-b478-f69535c4847a",
+    "name": "Econometrics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/econometrics-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "cd3d7315-165a-4fac-8cbd-efba7baa2d2a",
+    "name": "Economics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/economics-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "0d486d30-af7e-4071-9e8a-2859e43a29a4",
+    "name": "Electrical and Electronics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "babedea3-ee62-41e4-a2f3-ca242504fbfb",
+    "name": "Electrical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "5b7acf35-c31e-47bc-a312-b4953db6b81c",
+    "name": "Electronics & Telecommunications Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "42b0e226-18a1-4e3e-a7c3-6c232350e43d",
+    "name": "Electronics and Embedded Systems Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "57fb273a-0d67-4629-9375-1b89392c064d",
+    "name": "Electronics and Semiconductor Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "86e6ee65-1e23-4849-a26a-80cb5ae5d3d6",
+    "name": "English Comprehension (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "7c24ff95-c6b6-42c0-b31e-0e4779675432",
+    "name": "Enterprise Java Beans (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d13db181-8269-4b34-9993-53898dbdc645",
+    "name": "Enterprise Leadership Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "7ebca1dd-d0e6-4d7d-968f-6107832c4aff",
+    "name": "Enterprise Leadership Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "a8451ab9-9952-419e-85b7-07b678b4fcd2",
+    "name": "Entry Level Cashier Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "60124d88-dbfd-4fd0-b6cb-38822e8175e7",
+    "name": "Entry Level Customer Serv-Retail & Contact Center",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "c284d40d-262f-4b30-8635-95a710efe2ba",
+    "name": "Entry Level Customer Service (General) Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "518abc8d-d16b-43c6-871a-a64323298ec7",
+    "name": "Entry Level Hotel Front Desk Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "9942a545-29b9-4b2f-9efa-bc12cd77737f",
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "f2e89452-1a0f-4aff-bcf4-583f53a83a9e",
+    "name": "Entry Level Technical Support Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e37d3316-31b4-4373-bd00-d58bbd290424",
+    "name": "ETL Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/etl-testing-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "0b518190-20c4-4a78-8e6b-c4be32a75dee",
+    "name": "Executive Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d8c5b4ff-85a7-49de-ba73-9a2ee6e3b448",
+    "name": "Executive Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "f2ff126d-b33d-4792-85ac-761da0aad183",
+    "name": "Executive Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-profile-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "41dad20d-1633-4214-b32d-e253c176a29e",
+    "name": "ExpressJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "178cc78c-98aa-445e-b4bc-80b858d12439",
+    "name": "Filing - Names (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/filing-names-r1/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "b0750a00-fe7b-4e74-a68b-f764ce4461ec",
+    "name": "Filing - Numbers",
+    "url": "https://www.shl.com/products/product-catalog/view/filing-numbers/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "8103c139-941f-4ffa-8bba-5cbb470eee99",
+    "name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "62c87552-3e46-46a3-8a86-cb70bfc236ba",
+    "name": "Financial and Banking Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "2d818a91-c996-4120-a6e0-30f7eb00b726",
+    "name": "Fire Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fire-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "2a9d6f61-074c-45a2-bf0f-a2701b94ba8b",
+    "name": "Following Instructions v1 - UK (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "5a48c174-7c79-499a-b64b-3ce9bb9fb187",
+    "name": "Following Instructions v1 - US (R2)",
+    "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "aaa4194f-c507-44f9-9022-1da470285acc",
+    "name": "Food and Beverage Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "67ded64f-4382-44bd-ba54-4ef5ce83177a",
+    "name": "Food Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/food-science-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "de010ef8-9ba0-4ee9-b838-c364b4fcf1f9",
+    "name": "Front Office Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/front-office-management-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "6b928d22-5e63-4cb6-9a6f-4bdf8b4a4405",
+    "name": "Fundamentals of Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-chemistry-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "42ae2ba4-2543-4de6-ba36-fed0d44f7cb3",
+    "name": "Fundamentals of Physics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-physics-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "6708e176-41e8-4f20-bb0e-7fdaf2d7d9f7",
+    "name": "General Diseases (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/general-diseases-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "958f2610-4ae4-4bad-81a1-9f48d8b524d9",
+    "name": "Geoinformatics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/geoinformatics-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "45e24b91-d478-46b4-9d9d-63f74f2eca2e",
+    "name": "Geoscience Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/geoscience-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "76b88b90-2ffe-4b80-89ca-6e5083a9258c",
+    "name": "GIT (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/git-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ee644e0c-592e-45fc-a01e-5386a60c2e84",
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "142a13ea-5138-4fb9-b8d0-26f94ed5a4a3",
+    "name": "Graduate Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d59f9d17-d906-42c0-86a1-47d8e2fcd672",
+    "name": "Graduate Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-narrative-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "369e5e89-99f3-4c66-9ee1-69cb9990e63c",
+    "name": "Graduate Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-profile-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "dfb2d240-8952-444b-a4d4-381b3248a699",
+    "name": "Hibernate (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/hibernate-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "449d7d4b-1e02-44ac-8c9d-1c25bcd57ee5",
+    "name": "HIPAA (Security)",
+    "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "5820a3c6-891a-40d3-b613-719355f1096f",
+    "name": "HiPo Assessment Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "1cbc1c84-efb7-4358-b4ee-f2360641243a",
+    "name": "HiPo Assessment Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "5087438b-d4f3-4bb2-8206-fb1d4cce88cc",
+    "name": "HiPo Unlocking Potential Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "bc0968f8-eb82-4046-9644-21ac4d0ba660",
+    "name": "Housekeeping (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/housekeeping-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "8213b349-7695-4d1b-84be-2bf13a4b9e62",
+    "name": "HTML/CSS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/htmlcss-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "921abcf4-8adb-4f36-b5e8-271542014aa7",
+    "name": "HTML5 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/html5-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e4368816-b1c5-4b86-b7ad-de34e27365bd",
+    "name": "Human Resources (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/human-resources-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "33c98a3e-764c-4cd4-988b-c64f6ec8819c",
+    "name": "IBM DataStage (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ibm-datastage-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "236d4ff6-95d4-40cd-995b-b4cc2ac2b526",
+    "name": "IBM Sterling Order Management System (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "b2adb80a-e998-432b-96a7-45c42499c038",
+    "name": "Industrial Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "bf5d9964-9c0b-429a-912d-78ba91c9fe08",
+    "name": "Informatica (Architecture) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/informatica-architecture-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "cf7b13bf-ba14-4190-84fb-0ade30ad254e",
+    "name": "Informatica (Developer) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/informatica-developer-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "5fe82fd6-e0c7-4fdf-a315-cdc339178003",
+    "name": "Instrumentation Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/instrumentation-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "c12b5351-e69a-478f-b1e5-b5176de01944",
+    "name": "Interpersonal Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "b342a9f3-c7d3-489b-8005-f82bd04cc642",
+    "name": "Interviewing and Hiring Concepts (U.S.)",
+    "url": "https://www.shl.com/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "3d1e6f0f-9c88-4348-97b1-84faf8020d75",
+    "name": "iOS Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ios-development-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "64f43c60-c406-447a-9f9e-1d821d6fceaf",
+    "name": "ITIL (IT Infrastructure Library) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/itil-it-infrastructure-library-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "769a359c-8b30-44d6-9882-fa20704e1901",
+    "name": "Java 2 Platform Enterprise Edition 1.4 Fundamental",
+    "url": "https://www.shl.com/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "68f831bf-cfcf-4eb6-ad75-4be7258f237f",
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-8-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d7a6a386-08bf-4842-9706-2697cde54b89",
+    "name": "Java Design Patterns (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-design-patterns-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ff02392e-2a74-4fdc-83fb-b8b769554bb8",
+    "name": "Java Frameworks (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-frameworks-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "fd70ee1e-ccf5-4e52-9a22-86b141b02495",
+    "name": "Java Platform Enterprise Edition 7 (Java EE 7)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "fc0e653f-2d6d-47af-b54f-03799e0f4f33",
+    "name": "Java Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-web-services-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "0c8a512e-cf80-4b53-8303-f83b937155df",
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "af845105-bb2c-4143-b28c-d5dd170557bc",
+    "name": "Jenkins (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/jenkins-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "bbb7006d-4abb-4b61-9d95-20e7621ee8b7",
+    "name": "Job Control Language (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/job-control-language-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "1df047fd-1903-4043-bc5c-63e0b31ef3c0",
+    "name": "jQuery (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/jquery-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e950759e-6b74-4c29-8c79-b82129111713",
+    "name": "Kubernetes (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/kubernetes-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "7265ef61-612d-48d1-8f82-9ea837d546ce",
+    "name": "Linux Administration (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-administration-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "940a042e-d6a4-4b5f-b3c8-9fa200035c32",
+    "name": "Linux Operating System",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-operating-system/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e2f19870-00ec-4a54-8e8f-c1b3ca2cbbbb",
+    "name": "Linux Programming (General)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "41be6272-03da-40a8-b164-b9fe2789abe7",
+    "name": "Load Runner (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/load-runner-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "8e76cc04-3ce4-4f53-9d85-2d507c8eff61",
+    "name": "Management Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/management-scenarios/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "c0e4c295-5f0a-46e8-9918-8df76e59d2be",
+    "name": "Managerial Scenarios Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-candidate-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e85a1c2a-a1b7-45bf-b81e-3766b8c9fe2f",
+    "name": "Managerial Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-narrative-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e550b5f6-5a2d-462b-8a32-648164e3bb57",
+    "name": "Managerial Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-profile-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "97272d95-c9ea-400b-9f65-2d103205122a",
+    "name": "Manual Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/manual-testing-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "4b735d20-5d9a-43d3-9cb0-694e62925f0d",
+    "name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "eccbe3d2-19ff-4ad0-a903-7aa3a0f95e13",
+    "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "0ec24390-fb04-4901-a4b8-124d2e5bd441",
+    "name": "Manufacturing & Industrial - Essential Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/essential-focus-8-0/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "080e5a49-2bc7-4013-8dfd-89117b222cce",
+    "name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-focus-8-0/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "20f437ed-9f80-40d5-8d21-be86d84e4d10",
+    "name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/vigilance-focus-8-0/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d8f8f319-a95c-4a24-bb3f-e34626442016",
+    "name": "Marketing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/marketing-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "209ee322-15e5-4cb6-8095-c52e82622f6a",
+    "name": "Maven (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/maven-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "bd43de84-879c-40bb-baae-2dc43f91187d",
+    "name": "Mechanical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "459336d4-42d6-486f-a040-c3f3b3587485",
+    "name": "Mechatronics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mechatronics-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "f22c55dd-9059-4916-90c4-1f9b4e438f70",
+    "name": "Medical Terminology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e40f7a53-a228-4737-b663-0eb3652a81c0",
+    "name": "Metallurgical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/metallurgical-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "da992a86-a51c-4f56-bac9-b961735f8aba",
+    "name": "MFS 360 Enterprise Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "2f188d92-ed5b-46b7-b19a-5e3985d81178",
+    "name": "MFS 360 UCF Group Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-group-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "968052f3-ea5a-48da-8732-2bec3563c5d7",
+    "name": "MFS 360 UCF Performance Potential Dev Tips Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e69b8918-6a10-4688-90a4-9cbc0e8ef8d8",
+    "name": "MFS 360 UCF Standard Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-standard-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "37a8b999-9df7-4bbd-91f7-3aee5414bb17",
+    "name": "Micro Focus Unified Functional Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "55b29156-c19d-428d-a674-76e3f783a592",
+    "name": "Microservices (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microservices-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "da0d674a-e3b5-4c5a-8282-bcc0a85e5f86",
+    "name": "Microsoft Dynamics Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-dynamics-development-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "55f0eade-4882-456d-af0e-235e07b16866",
+    "name": "Microsoft Excel 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "6f346fa3-41b9-4166-af85-260861386763",
+    "name": "Microsoft Excel 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "f591f096-e4f2-4250-955f-bb4ae5d4dcc9",
+    "name": "Microsoft Outlook 2013 (adaptive)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "b8713073-67e3-4739-a309-f3b8c7c65d13",
+    "name": "Microsoft PowerPoint 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ef843b08-524d-4f51-a337-c39b750775f2",
+    "name": "Microsoft SQL Server 2014 Programming",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-sql-server-2014-programming/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "46f857d5-571c-4c9a-ba9f-70315af6fd36",
+    "name": "Microsoft Windows Server 2012 Administration",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-windows-server-2012-administration/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "6bc25e99-238a-4fa1-9719-76a67ba30e70",
+    "name": "Microsoft Word 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "906b2fef-f19a-4149-8cdf-dba399aa16aa",
+    "name": "Microsoft Word 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "2f6b17bf-38c5-4559-a947-c947699153d8",
+    "name": "Mineral Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mineral-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d8219bb5-87d4-4fcc-8926-5f926f01417a",
+    "name": "Mining Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mining-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ab150ee0-278c-4c9f-8860-565ce40bfba5",
+    "name": "Mobility (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mobility-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e0929053-c972-45b1-9d5b-85cac8411950",
+    "name": "Molecular Biology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/molecular-biology-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "688db2af-410a-4b79-ba86-e206c2bef2aa",
+    "name": "MongoDB (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mongodb-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "db6ab39f-6e9f-42ee-8b37-ea9d3719aa3a",
+    "name": "Motivation Questionnaire MQM5",
+    "url": "https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mqm5/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "c5dbd5d4-1da9-4118-b02d-f2b2681a03ca",
+    "name": "MQ Candidate Motivation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-candidate-motivation-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "0fc87888-6b6b-41be-8f0b-f03973096759",
+    "name": "MQ Employee Motivation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-employee-motivation-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "a4536ef3-db7a-4fe7-81a0-fd161e3c8038",
+    "name": "MQ Motivation Report Pack",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-motivation-report-pack/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d4229e2d-d2e9-4c57-9dbc-75f5bf615107",
+    "name": "MQ Profile",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-profile/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "399b5c11-9029-41b4-a632-81b72b028a74",
+    "name": "MS Access (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-access-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "f13b3399-d824-4886-b9bf-844994493b2e",
+    "name": "MS Excel (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "7659a1e5-99da-4e0e-9390-87e0a3c61927",
+    "name": "MS Office Basic Computer Literacy (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "b1c95ed4-d67b-4ce4-ac49-10af5476bb7c",
+    "name": "MS Office Basic Computer Literacy (Sim) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "88fc7b27-7be1-4a2d-9110-07c03e8baedc",
+    "name": "MS PowerPoint (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-powerpoint-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "0120379b-a5a2-448b-a169-a1fbc7b3c976",
+    "name": "MS Word (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "0c1db578-0742-42fc-ba5a-0e6fe097d3da",
+    "name": "MuleSoft Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mulesoft-development-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "c14ae70f-92cf-442d-a4c1-5ba311bf8ea1",
+    "name": "Multitasking Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/multitasking-ability/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "52410e0a-9213-42df-bfd8-ad79e9a7bc73",
+    "name": "Networking and Implementation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "cf2ac634-a042-4dd5-8d31-43eac5cd4d1e",
+    "name": "Node.js (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/node-js-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "f0cd479a-9f9a-4744-ae0e-8dc34b48e563",
+    "name": "Nursing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/nursing-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "23cae03a-c3ce-4a1a-b9ef-9901e0f75c87",
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "2e0ac4ee-5695-4d1a-897d-7e8f155b7465",
+    "name": "Operations Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/operations-management-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "a462bcbc-9513-4469-b486-199613ff165f",
+    "name": "OPQ Candidate Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-plus-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "3a891f0c-90f5-4ccd-8cea-be79446f07e6",
+    "name": "OPQ Candidate Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-report-2-0/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e80e0e67-3cce-4c01-849a-2dc749c36c6c",
+    "name": "OPQ Emotional Intelligence Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-emotional-intelligence-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "74634de8-8295-4d18-addc-ba401f9c84f3",
+    "name": "OPQ Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d5ff3791-19f8-4f32-84c6-8efd63510709",
+    "name": "OPQ Manager Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "f514cf06-68a0-4501-a0ba-ca07adc61c7c",
+    "name": "OPQ Manager Plus Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report-2-0/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "a97c6b8c-1119-46aa-8429-92b8aac43872",
+    "name": "OPQ Maximising your Learning Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-maximising-your-learning-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "7f424f9a-4bef-4f3f-a4a7-9c234b92d807",
+    "name": "OPQ MQ Sales Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "291d326f-19de-4af1-a6d0-ff7447b6144e",
+    "name": "OPQ Premium Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "4a0e080e-7369-4d1a-9baa-c6d13b6c2271",
+    "name": "OPQ Premium Plus Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report-2-0/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d41df9b4-4451-44c3-ae9c-9e5e6b61ff09",
+    "name": "OPQ Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-profile-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "6c62cec7-2f7e-45e3-8d44-e052a14b1695",
+    "name": "OPQ Team Impact Group Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-group-development-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ba96b959-21a4-4a7f-b77d-54f5e831d7fd",
+    "name": "OPQ Team Impact Individual Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-individual-development-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "267812d5-967e-4389-87ec-97eb789b8621",
+    "name": "OPQ Team Impact Selection Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-selection-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e145fafa-dd08-4080-8cc1-b0916c9fa260",
+    "name": "OPQ Team Types & Leadership Styles Profile",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "880c7a15-08dd-44a2-815c-c913fb3caa1a",
+    "name": "OPQ Team Types and Leadership Styles Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "a9747645-7566-4a21-bcaa-ae5dca969cf6",
+    "name": "OPQ UCF Development Action Planner Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ea77220d-24bd-4f1a-a282-97d543ab5021",
+    "name": "OPQ UCF Development Action Planner Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "b18f1d13-a4a0-4ae9-b11a-f3ad4c29cf1b",
+    "name": "OPQ Universal Competency Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e9dd0f3b-ed3e-40a0-8987-f2ae9e033536",
+    "name": "OPQ Universal Competency Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "152fe1d0-f5e9-4bf8-946f-5511b5079e24",
+    "name": "OPQ User and Managers Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-user-and-managers-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "46c37901-ac95-432d-b216-454d89139514",
+    "name": "OPQ User Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-user-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d316268e-59d8-47b9-9268-df1d0c0e414b",
+    "name": "Oracle DBA (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-advanced-level-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "0fb67f43-ddfd-46cc-bf41-fca88f92754e",
+    "name": "Oracle DBA (Entry Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-entry-level-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "b8b52a8f-9f03-4c47-be74-9bd0098b1fde",
+    "name": "Oracle PL/SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-plsql-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ed2a9f32-17ff-42d3-98cc-62d889475efe",
+    "name": "Oracle WebLogic Server (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-weblogic-server-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d3ea5299-5d52-4c9e-a081-2d302f252a05",
+    "name": "Organic Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/organic-chemistry-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "598ed104-3075-45aa-9a27-d23f95007188",
+    "name": "Paint Technology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/paint-technology-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "0851667f-8ab8-4330-8e12-f83e9cf81640",
+    "name": "Pediatrics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pediatrics-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ff593338-5264-421a-b049-f1d64cf64325",
+    "name": "Pega Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pega-development-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "4a5dd480-6b7f-42aa-aebe-5f9458935d05",
+    "name": "Perl (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/perl-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ce999e37-0b3e-4533-a560-c77e998730dd",
+    "name": "Petrochemical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/petrochemical-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "b1ae8768-af76-4f7e-a93d-9bfd603ae0b3",
+    "name": "Petroleum Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/petroleum-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "73f21eb7-42d8-48ba-b393-9d1b35e86f2d",
+    "name": "Pharmaceutical Analysis (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-analysis-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "35505033-2372-49e9-9da6-0979b774ccfe",
+    "name": "Pharmaceutical Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-chemistry-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "615a73c9-f608-44a4-978e-13e2e712a541",
+    "name": "Pharmaceutical Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-science-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "b9425f63-ac58-43e2-8c66-8d68f08d9141",
+    "name": "Pharmaceutics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutics-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "87690dc9-57cc-4765-8314-d5dab0df28de",
+    "name": "Pharmacology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmacology-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e84d92fb-3a3f-47dd-b223-6ef510dee78f",
+    "name": "PHP (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/php-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ac5bae1f-e5b0-47c0-8cef-9ee8209733d7",
+    "name": "PJM Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/pjm-development-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "927048e2-1fe4-46eb-97d4-13a1bb245192",
+    "name": "PJM Selection Report",
+    "url": "https://www.shl.com/products/product-catalog/view/pjm-selection-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "7d231958-b038-4312-b527-781dd4a6804b",
+    "name": "Polymer Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/polymer-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "08a00a7a-f36d-42ad-a330-f675de85cf8c",
+    "name": "Power Electronics and Drives (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/power-electronics-and-drives-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "189bb388-4079-4a5d-8554-dd8b01d5d770",
+    "name": "Power System Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/power-system-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "52b9b690-6bbe-4945-9ba7-7c29417f029d",
+    "name": "Prism (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/prism-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "00d181a4-8d5f-4953-9217-f982efde83a8",
+    "name": "Production and Industrial Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/production-and-industrial-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "3fe16b46-6a5f-4ae9-993b-c0f313c25624",
+    "name": "Production Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/production-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "2c7e9959-f675-460d-834c-94c229234941",
+    "name": "Programming Concepts",
+    "url": "https://www.shl.com/products/product-catalog/view/programming-concepts/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "0fa71950-29d2-46da-b22c-54f88696645f",
+    "name": "Project Management (2013)",
+    "url": "https://www.shl.com/products/product-catalog/view/project-management-2013/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ba84d3fe-aee2-4fb2-a7c3-428212010148",
+    "name": "Proofreading v1",
+    "url": "https://www.shl.com/products/product-catalog/view/proofreading-v1/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "9e054173-7e92-40d9-a468-a88206fe9cee",
+    "name": "Python (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/python-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "609098a5-ed76-436e-a361-be0834f133e3",
+    "name": "R Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/r-programming-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "817ff846-6bb0-46bf-8ff6-706c94640313",
+    "name": "ReactJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/reactjs-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "f1dee07a-82fa-4ad3-9dca-4673e63ba8ed",
+    "name": "Reading Comprehension - English v1",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-english-v1/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "210c5a71-669b-4183-acde-33dfa178eaf0",
+    "name": "Reading Comprehension - Spanish v1",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-spanish-v1/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "cd28a91c-ffe0-41f3-9fc3-ba9ae5284c10",
+    "name": "Reading Comprehension v2",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-v2/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "540f040e-c818-465d-a3b3-1f733c38716e",
+    "name": "RemoteWorkQ",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "a9309478-938d-47e3-83b6-8bee1daa6b45",
+    "name": "RemoteWorkQ Manager Report",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-manager-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "31ed388f-d790-4023-8d5f-522adfa248e8",
+    "name": "RemoteWorkQ Participant Report",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-participant-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "84a0b8c4-82ec-49c1-8fb0-3848bc13bffb",
+    "name": "RESTful Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "498503c9-6ebb-4662-a2b2-05a4c156b36b",
+    "name": "Retail Sales and Service Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/retail-sales-and-service-simulation/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "04880d83-7c87-4eb5-a081-b9380766d4be",
+    "name": "Reviewing Forms - US (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/reviewing-forms-us-r1/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "7fee1482-7a2e-4f47-b18b-40b50f12c7ed",
+    "name": "Ruby (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ruby-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "6eeb19b4-2968-4971-8818-6bc41b5f0b41",
+    "name": "Ruby on Rails (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ruby-on-rails-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e103bbff-4ad2-460f-9630-f1192f1bb82c",
+    "name": "Sales & Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-simulation/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "b51f46dd-2df0-42de-880d-7e0d62f9c318",
+    "name": "Sales & Service Phone Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-solution/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "7eab8e01-407d-4d33-992e-cde2896c65cc",
+    "name": "Sales Interview Guide",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-interview-guide/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "9a7a56f7-709a-4535-8c86-64f462de3c03",
+    "name": "Sales Profiler Cards",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-profiler-cards/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "b6a74b24-a0b2-4c3d-b4d9-0eb3853f502b",
+    "name": "Sales Transformation 1.0 - Individual Contributor",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "4262b2c3-9952-41ce-8e3e-c8dc0a7fd3d8",
+    "name": "Sales Transformation 2.0 - Individual Contributor",
+    "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d4e50f43-0b1d-4b99-88ff-3e1eac5387d0",
+    "name": "Sales Transformation Report 1.0 - Sales Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-sales-manager/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "59ed9b45-5773-468c-9d83-c3ed241432d7",
+    "name": "Sales Transformation Report 2.0 - Sales Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "dd3fc698-f4bb-4058-b0c8-5e59d1a1f846",
+    "name": "Salesforce Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/salesforce-development-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "fc7ed8de-7b89-46b2-abaf-a68c70dfd698",
+    "name": "SAP ABAP (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-abap-advanced-level-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "a2f247f7-ccd5-43c2-8fa4-2a27923acee3",
+    "name": "SAP ABAP (Intermediate Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-abap-intermediate-level-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "9664ccf2-b29b-4722-b92d-34f171b4b04e",
+    "name": "SAP Basis (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-basis-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e360ecf9-ce58-49bf-a9cc-94741c6e3304",
+    "name": "SAP Business Objects WebI (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-business-objects-webi-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "fc3dff58-dba7-4ff0-b124-d728d67b6387",
+    "name": "SAP BW (Business Warehouse) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-bw-business-warehouse-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "45c337de-db83-439d-bf5a-798372874d25",
+    "name": "SAP HCM (Human Capital Management) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-hcm-human-capital-management-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "3c18a1a8-a5cd-496e-85b9-5ef47065ca5a",
+    "name": "SAP Hybris (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-hybris-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "89425047-e897-4f8f-930a-a830c32b3066",
+    "name": "SAP Materials Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-materials-management-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "6d4b1ded-b30d-4dec-8d4d-0447d040aaea",
+    "name": "SAP SD (Sales and Distribution) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-sd-sales-and-distribution-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "42b4acdd-8fc5-4055-b042-303d26b24853",
+    "name": "Search Engine Optimization (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/search-engine-optimization-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "890be46c-6b7d-45d7-92e5-b99b4489996c",
+    "name": "Selenium (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/selenium-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "b9afa68e-09e7-4898-a7e9-4ece6f2073d3",
+    "name": "Shell Scripting (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/shell-scripting-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e622e0fd-0097-4047-bf48-298510275780",
+    "name": "SHL Verify Interactive - Inductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "2ac03aaf-7ef3-4191-9924-99e286a2b239",
+    "name": "SHL Verify Interactive – Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "83a1cac1-41c2-4b79-ba7e-b2579c2c4fb4",
+    "name": "SHL Verify Interactive – Numerical Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "2fd4f9f1-1c4c-4b8c-aca9-afa112f04d02",
+    "name": "SHL Verify Interactive G+",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "da8a6cb9-670e-444a-9284-de824667fd21",
+    "name": "SHL Verify Interactive Numerical Calculation",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "c633629e-3d2f-4bf2-b332-17e05fff1081",
+    "name": "Siebel Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/siebel-development-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e5e08918-a4af-4d14-a585-174dd8351f64",
+    "name": "Smart Interview Live",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "27acd28e-add9-46e1-a250-12d6038ad6ed",
+    "name": "Smart Interview Live Coding",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "8fffd0e7-0c54-4936-a3c7-de0a9b19173c",
+    "name": "Smart Interview On Demand",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-on-demand/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "da45d6e2-89aa-4591-8487-07539f53e68b",
+    "name": "Social Media (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/social-media-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ef1ec2b7-4917-446f-98bd-64afbfacf819",
+    "name": "Software Business Analysis",
+    "url": "https://www.shl.com/products/product-catalog/view/software-business-analysis/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "896108c9-bd5e-4c0b-8487-760187eb5dd6",
+    "name": "SonarQube (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sonarqube-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "943c7873-ed4b-4e23-a458-6ca62082cc08",
+    "name": "Spelling (U.S.) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/spelling-u-s-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "6a88923b-cd23-4447-9027-3ad1a6ba95be",
+    "name": "Split Screen Typing Test - Form 1",
+    "url": "https://www.shl.com/products/product-catalog/view/split-screen-typing-test-form-1/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "377612ac-f996-4c9f-970d-b371109a2670",
+    "name": "Spring (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "88743e53-d672-4eb6-a09b-258b2c599932",
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "9727f82e-72cc-4b67-9b7c-bbb87c3ddd50",
+    "name": "SQL Server (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "607e32ea-6311-4440-a1d6-54541c6f225f",
+    "name": "SQL Server Analysis Services (SSAS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "4a7a8a5f-564b-4561-b14e-8e4f147a5d32",
+    "name": "SQL Server Integration Services (SSIS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-integration-services-ssis-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "b8d12eec-86f4-4af8-85e2-0830d7faf778",
+    "name": "SQL Server Reporting Services (SSRS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "5907dad1-8ae1-4f79-bf50-7ecc715cce81",
+    "name": "Statistical Analysis System (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/statistical-analysis-system-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "343b7f25-11fa-47c0-9f44-8556bf9401c0",
+    "name": "Struts (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/struts-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ed4a49f9-06f7-4154-adf2-2e714af4a3d0",
+    "name": "SVAR - Spoken English (AUS)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-aus/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "29fbaf15-d3f9-42a5-ac80-59a4b9516a25",
+    "name": "SVAR - Spoken English (Indian Accent) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "9fdb373d-ca5b-480b-b0c7-4ad4a9378ce8",
+    "name": "SVAR - Spoken English (U.K.)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-u-k/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "46d52ab6-c7a0-4262-94c2-8d23592ae19c",
+    "name": "SVAR - Spoken English (US) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "0f454887-b1eb-4a52-acbe-cd9273fbbca9",
+    "name": "SVAR - Spoken French (Canadian) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-canadian-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "0b7a2431-5691-431b-af9c-132d81cacf9e",
+    "name": "SVAR - Spoken French (European) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-european-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "9352e990-0ca5-4384-bba0-b31c70b77a58",
+    "name": "SVAR - Spoken Spanish (Castilian) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "b7ebb838-1c6b-4166-98d2-e0fd1483ff84",
+    "name": "SVAR - Spoken Spanish (North American) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "1d25d83e-7c78-4c6f-9ce8-6823d5f56b19",
+    "name": "Swing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/swing-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "9addad66-d793-462d-b1c2-b0f0499c8a97",
+    "name": "Tableau (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/tableau-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d910d085-c79d-416c-af49-f3c2863d76c4",
+    "name": "Telecommunications Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/telecommunications-engineering-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "4e6d5cdd-b0e1-4138-a2d1-5ae12842c602",
+    "name": "Teradata Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/teradata-development-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d166db4b-2275-4399-92a9-d609650fbdf6",
+    "name": "Time Management (U.S.)",
+    "url": "https://www.shl.com/products/product-catalog/view/time-management-u-s/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "3ab58f40-1370-4c6f-a020-e50ceb124745",
+    "name": "Training Development",
+    "url": "https://www.shl.com/products/product-catalog/view/training-development/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "6818c6e2-c6d8-49a8-93fd-99283a1dff0b",
+    "name": "Typing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/typing-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "1b51e254-7a19-4df6-9614-89c6d481deac",
+    "name": "UiPath RPA Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/uipath-rpa-development-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "8d250fa2-1ce6-4fc0-9f66-318a6fb5a308",
+    "name": "Universal Competency Framework Interview Guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-interview-guide/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "7c88a1c6-ff27-4c47-a691-d774e5a719b1",
+    "name": "Universal Competency Framework Job profiling guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "dddfb70b-cf35-4535-942d-e7f4d672c529",
+    "name": "Universal Competency Framework Profiler Cards (44)",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "743f16fd-b877-41a0-8bbc-a3c29a448558",
+    "name": "UNIX (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/unix-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "86cd70f1-1c48-4821-a793-492f5b36cf4a",
+    "name": "VB.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/vb-net-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "e00907a8-b179-49ae-bcbf-d026d0029552",
+    "name": "Verify - Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "f3c1c9dd-80d8-4b9a-95e4-5b7b06fd8c62",
+    "name": "Verify - Following Instructions",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-following-instructions/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "20edc67f-7bf1-4b2a-94aa-bb236844ffdc",
+    "name": "Verify - G+",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "39f6f1d4-a9ee-418c-82b4-0cc7a666705e",
+    "name": "Verify - General Ability Screen",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "035a5cd4-de1c-4fd3-acba-22ad3825692c",
+    "name": "Verify - Inductive Reasoning (2014)",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "a8ee3d62-5925-44fb-aa26-dec80e33e7ae",
+    "name": "Verify - Numerical Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "bf32e750-ec0f-4bfe-963a-9d3f0dc9830c",
+    "name": "Verify - Technical Checking - Next Generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ee5f79c0-6d04-4bae-857c-2e52a4a76bf1",
+    "name": "Verify - Verbal Ability - Next Generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "9bf9e919-a523-4d13-97af-4ea79c6774d3",
+    "name": "Verify - Working with Information",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-working-with-information/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "dec92953-f91c-4b1a-8bf4-dd015a2c541c",
+    "name": "Verify G+ - Ability Test Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-ability-test-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "1bfd7d87-207f-4b5b-be90-eb2f2139619e",
+    "name": "Verify G+ - Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "798693db-e321-49cf-b3d6-00f5e29711fc",
+    "name": "Verify Interactive Ability Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "66acf732-10c4-4e1a-8d7c-b2778fd84dc5",
+    "name": "Verify Interactive G+ Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-candidate-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "42e3d451-a485-4e85-bce9-499a60137903",
+    "name": "Verify Interactive G+ Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "2b3a3b5e-9cb4-4b89-a2a7-0b0ccbbf8fa8",
+    "name": "Verify Interactive Process Monitoring",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "f1eb00d1-664f-4deb-bbb1-072ddc59d4c9",
+    "name": "Virtual Assessment and Development Centers",
+    "url": "https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "397a804f-7fa3-43e9-a535-009f3d5f717a",
+    "name": "Visual Basic for Applications (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "f0ce3c11-aa35-4a5a-8a08-d6822d704aa6",
+    "name": "Visual Comparison - UK",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-uk/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "f2f3e9ec-5642-4e33-85ba-2877e3e9c7a9",
+    "name": "Visual Comparison - US",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-us/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "f92e03c4-fe0c-4b8c-b3d4-5644464ee111",
+    "name": "VLSI and Embedded Systems (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "f0bdcda4-5a12-40dd-ac26-ed4ef6f80bbe",
+    "name": "What Is The Value - US",
+    "url": "https://www.shl.com/products/product-catalog/view/what-is-the-value-us/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "ffcb3a47-bd4d-44c6-a7a8-70e5fc3a7437",
+    "name": "Workplace Administration Skills (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "c0128f18-1b52-4e3c-8f6c-1306e0f212a8",
+    "name": "Workplace Health and Safety (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "729ec008-1c14-4274-b6ed-30d83a6cf8b2",
+    "name": "WriteX - Email Writing (Customer Service) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "c3c91362-156c-4d18-b4e0-b9ebd8c676a7",
+    "name": "WriteX - Email Writing (Managerial) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "8cfb27a6-0b77-4009-87e5-33da4d9a83d7",
+    "name": "WriteX - Email Writing (Sales) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "8e6f716c-b92c-4b34-8df4-cea7a8e27eca",
+    "name": "Written English v1",
+    "url": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "2b8da111-0791-4168-af70-b54f091ebf44",
+    "name": "Written Spanish",
+    "url": "https://www.shl.com/products/product-catalog/view/written-spanish/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "32f0338d-1228-4a7f-a514-bc77ec885ba3",
+    "name": "Zabbix (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/zabbix-new/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "73d5f8b6-747c-45de-93f2-5ad9522ba6f3",
+    "name": "360 Digital Report",
+    "url": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  },
+  {
+    "assessment_id": "d3a442db-47b3-4fbc-8af9-aade0557d2f4",
+    "name": "360° Multi-Rater Feedback System (MFS)",
+    "url": "https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "test_type": "",
+    "duration": "",
+    "remote_support": "",
+    "adaptive_support": ""
+  }
+]

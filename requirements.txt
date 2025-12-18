@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+pandas
+tqdm
+uuid
+selenium
+webdriver-manager
+sentence-transformers
+faiss-cpu
+numpy
+streamlit
+numpy
+scikit-learn
+google-generativeai
