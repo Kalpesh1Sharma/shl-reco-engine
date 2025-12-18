@@ -1,57 +1,56 @@
 import streamlit as st
-import sys
-import os
-
-# --------------------------------------------------
-# Ensure project root is on PYTHONPATH
-# --------------------------------------------------
-PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))
-if PROJECT_ROOT not in sys.path:
-    sys.path.append(PROJECT_ROOT)
-
 from retrieval.retrieve_and_rank import recommend
 
-# --------------------------------------------------
-# Streamlit UI
-# --------------------------------------------------
 st.set_page_config(
     page_title="SHL Assessment Recommendation Engine",
-    page_icon="🧠",
     layout="centered"
 )
 
-st.title("🧠 SHL Assessment Recommendation Engine")
-st.markdown(
-    """
-This tool recommends **SHL Individual Test Solutions** based on  
-job descriptions or hiring requirements.
-
-Enter a **JD / hiring query** below and click **Recommend**.
-"""
+st.title("SHL Assessment Recommendation Engine")
+st.write(
+    "This tool recommends **SHL Individual Test Solutions** based on "
+    "job descriptions or hiring requirements."
 )
 
-query = st.text_area(
-    "Job Description / Hiring Query",
-    height=200,
-    placeholder="e.g. Looking to hire a data analyst with strong SQL, Excel, and analytical skills..."
+# ---------------- API MODE ----------------
+query_param = st.query_params.get("query")
+
+if query_param:
+    results = recommend(query_param, k=10)
+    st.json({
+        "query": query_param,
+        "recommendations": [
+            {
+                "rank": i + 1,
+                "name": r["name"],
+                "score": round(float(r["score"]), 4),
+                "url": r["url"]
+            }
+            for i, r in enumerate(results)
+        ]
+    })
+    st.stop()
+
+# ---------------- UI MODE ----------------
+st.subheader("Job Description / Hiring Query")
+
+user_query = st.text_area(
+    "Enter a JD or hiring query",
+    height=180
 )
 
 if st.button("🔍 Recommend Assessments"):
-    if not query.strip():
-        st.warning("Please enter a job description or query.")
+    if not user_query.strip():
+        st.warning("Please enter a query.")
     else:
-        with st.spinner("Finding best assessments..."):
-            results = recommend(query, k=10)
-
-        st.success("Top Recommended Assessments")
+        with st.spinner("Finding best matching SHL assessments..."):
+            results = recommend(user_query, k=10)
 
         for i, r in enumerate(results, 1):
             st.markdown(
                 f"""
 **{i}. {r['name']}**  
-🔗 {r['url']}
+🔗 {r['url']}  
+_Relevance score_: `{r['score']:.3f}`
 """
             )
-
-st.markdown("---")
-st.caption("Built for SHL AI Intern Assignment")
