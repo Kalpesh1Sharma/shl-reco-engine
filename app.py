@@ -1,10 +1,18 @@
+import os
+import sys
 import streamlit as st
-import json
+
+# --------------------------------
+# Fix Python path for Streamlit Cloud
+# --------------------------------
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(BASE_DIR)
+
 from retrieval.retrieve_and_rank import recommend
 
-# -------------------------------
-# Page configuration
-# -------------------------------
+# --------------------------------
+# Streamlit Page Config
+# --------------------------------
 st.set_page_config(
     page_title="SHL Assessment Recommendation Engine",
     layout="centered"
@@ -16,14 +24,13 @@ st.write(
     "job descriptions or hiring requirements."
 )
 
-# -------------------------------
-# 🔌 API MODE (JSON RESPONSE)
-# Triggered when ?query= is present in URL
-# -------------------------------
+# --------------------------------
+# 🔌 API MODE — JSON RESPONSE
+# --------------------------------
 query_param = st.query_params.get("query")
 
 if query_param:
-    query_text = query_param
+    query_text = query_param.strip()
 
     results = recommend(query_text, k=10)
 
@@ -43,14 +50,15 @@ if query_param:
     st.json(response)
     st.stop()
 
-# -------------------------------
+# --------------------------------
 # 🖥️ UI MODE
-# -------------------------------
+# --------------------------------
 st.subheader("Job Description / Hiring Query")
 
 user_query = st.text_area(
     "Enter a JD or hiring query below and click Recommend",
-    height=180
+    height=180,
+    placeholder="Looking to hire mid-level professionals proficient in Python, SQL, and JavaScript..."
 )
 
 if st.button("🔍 Recommend Assessments"):
